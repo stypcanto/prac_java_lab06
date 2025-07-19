@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <nodo id="1">AMAZONAS</nodo>
+    <nodo id="2">ANCASH</nodo>
+    <nodo id="3">APURIMAC</nodo>
+    <nodo id="4">AREQUIPA</nodo>
+    <nodo id="5">AYACUCHO</nodo>
+    <nodo id="6">CAJAMARCA</nodo>
+    <nodo id="7">CUSCO</nodo>
+    <nodo id="8">HUANCAVELICA</nodo>
+    <nodo id="9">HUANUCO</nodo>
+    <nodo id="10">ICA</nodo>
+    <nodo id="11">JUNIN</nodo>
+    <nodo id="12">LA LIBERTAD</nodo>
+    <nodo id="13">LAMBAYEQUE</nodo>
+    <nodo id="14">LIMA</nodo>
+    <nodo id="15">LORETO</nodo>
+    <nodo id="16">MADRE DE DIOS</nodo>
+    <nodo id="17">MOQUEGUA</nodo>
+    <nodo id="18">PASCO</nodo>
+    <nodo id="19">PIURA</nodo>
+    <nodo id="20">PUNO</nodo>
+    <nodo id="21">SAN MARTIN</nodo>
+    <nodo id="22">TACNA</nodo>
+    <nodo id="23">TUMBES</nodo>
+    <nodo id="24">UCAYALI</nodo>
+</data>
