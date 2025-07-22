@@ -72,3 +72,32 @@ Los datos son cargados dinámicamente mediante **AJAX con jQuery**.
 
 ```bash
 git clone https://github.com/stypcanto/prac_java_lab01.git
+```
+
+2. Esto generará el archivo WAR en:
+
+```bash
+target/Lab06-1.0-SNAPSHOT.war
+```
+
+3.  Ubica tu carpeta de Tomcat (por ejemplo):
+
+```bash
+~/Downloads/apache-tomcat-10.1.43
+```
+
+4. Luego copia el archivo .war al directorio webapps/ y arranca Tomcat:
+
+```bash
+cp target/Lab06-1.0-SNAPSHOT.war ~/Downloads/apache-tomcat-10.1.43/webapps/lab06.war
+
+cd ~/Downloads/apache-tomcat-10.1.43/bin
+./startup.sh
+```
+
+5.  Esto desplegará automáticamente tu aplicación en
+```bash
+http://localhost:8080/lab06/
+
+./startup.sh
+```
